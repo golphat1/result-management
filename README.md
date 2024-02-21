@@ -1,0 +1,1 @@
+This repository contains the code for a Student Result Management System developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The system allows administrators, faculty members, and students to perform various tasks related to managing student information, test scores, attendance, and more.
